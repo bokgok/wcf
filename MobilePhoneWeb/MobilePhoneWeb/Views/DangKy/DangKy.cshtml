@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/Shared/_LayoutPageIndex.cshtml";
+}
+@model MobilePhoneWeb.Models.formKH
+<div style="width: 100%; background-color:#A8DEE8">
+    @{using (Html.BeginForm(null, null, FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+        <table style="margin-left:100px">
+            <tr>Đăng ký</tr>
+            <tr>
+                <td>Họ và tên :</td>
+                <td>@Html.TextBoxFor(a => a.HoTen)</td>
+                <td> @Html.ValidationMessageFor(a => a.HoTen)</td>
+            </tr>
+            <tr>
+                <td>Tên đăng nhập :</td>
+                <td>@Html.TextBoxFor(a => a.Username)</td>
+                <td> @Html.ValidationMessageFor(a => a.Username)</td>
+            </tr>
+            <tr>
+                <td>Mật khẩu : </td>
+                <td> @Html.PasswordFor(a => a.Password)</td>
+                <td> @Html.ValidationMessageFor(a => a.Password)</td>
+            </tr>
+            <tr>
+                <td>Giới tính :</td>
+                <td>@Html.TextBoxFor(a => a.Gioitinh)</td>
+                <td> @Html.ValidationMessageFor(a => a.Gioitinh)</td>
+            </tr>
+            <tr>
+                <td>Số điện thoại :</td>
+                <td>@Html.TextBoxFor(a => a.DienThoai)</td>
+                <td> @Html.ValidationMessageFor(a => a.DienThoai)</td>
+            </tr>
+            <tr>
+                <td>Địa chỉ :</td>
+                <td>@Html.TextBoxFor(a => a.DiaChi)</td>
+                <td> @Html.ValidationMessageFor(a => a.DiaChi)</td>
+            </tr>
+            <tr>
+                <td>Email :</td>
+                <td>@Html.TextBoxFor(a => a.Email)</td>
+                <td> @Html.ValidationMessageFor(a => a.Email)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" value="Đăng ký" />
+                </td>
+                <td></td>
+            </tr>
+        </table>
+    }
+    @Html.Raw(ViewBag.Error)
+    }
+</div>

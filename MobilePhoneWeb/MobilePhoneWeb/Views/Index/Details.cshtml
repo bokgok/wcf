@@ -1,0 +1,27 @@
+﻿@model IEnumerable<MobilePhoneWeb.ServiceSanPham.SanPham>
+@{
+    ViewBag.Title = "Chi tiết sản phẩm";
+    Layout = "~/Views/Shared/_LayoutPageIndex.cshtml";
+}
+<div>
+    @foreach (var pro in Model)
+    {
+        <div>
+            <img src="~/Images/Product/@Html.DisplayFor(i => pro.UrlHinh)" width="150" height="150" />
+        </div>
+        <div>
+            <div>
+                <p> @pro.TenSP </p>
+            </div>
+            <div>
+                <p>Giá @pro.Gia VNĐ</p>
+            </div>
+            <div>
+                <p>@MvcHtmlString.Create(pro.MoTa)</p>
+            </div>
+            <a href="@Url.Action("giohangthem", "GioHang", new { masanpham = pro.MaSP })">
+                <input name="btnMuaHang" class="btn-muahang" type="button" value="Mua hàng" />
+</div>
+
+    }
+</div>

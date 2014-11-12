@@ -1,0 +1,79 @@
+﻿@model MobilePhoneWeb.Models.ThongTinNguoiDatHang
+@{
+    ViewBag.Title = "DatHang";
+    Layout = "~/Views/Shared/_LayoutPageIndex.cshtml";
+}
+
+@{Html.RenderAction("DefaultDH", "giohang");}
+
+<section id="dangky">
+    @*@if (Session["Account"] != null)
+    {
+        <h1>Đặt hàng bằng tài khoản của website</h1>
+        using (Html.BeginForm("DatHang", "ThanhToan", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.ValidationSummary(true)
+            <div class="box-dangnhap">
+                <p>Ban chap nhan don hang voi tai khoan: </p>
+                <p style="color:blue">@Session["Account"].ToString()</p>
+                <span class="dangnhap">
+                    <span>Tên người nhận<br></span>
+                    @Html.EditorFor(model => model.tennguoinhan)
+                    <p style="color:red;">  @Html.ValidationMessageFor(model => model.tennguoinhan)</p>
+                    <span>Email<br></span>
+                    @Html.EditorFor(model => model.email)
+                    <p style="color:red;">  @Html.ValidationMessageFor(model => model.email)</p>
+                    <span>Địa chỉ<br></span>
+                    @Html.EditorFor(model => model.diachi)
+                    <p style="color:red;">@Html.ValidationMessageFor(model => model.diachi)</p>
+                    <span>Số điện thoại<br></span>
+                    @Html.EditorFor(model => model.sodt)
+                    <p style="color:red;">  @Html.ValidationMessageFor(model => model.sodt)</p>
+
+                </span>
+
+                <span class="button-dangnhap">
+                    <input name="sbmDangNhap" type="submit" value="Hoàn tất" />
+                </span>
+
+            </div>
+        }
+
+    }
+    else*@
+
+        @using (Html.BeginForm("DatHangaction", "ThanhToan", FormMethod.Post))
+        {
+            @Html.ValidationSummary(true)
+             @Html.AntiForgeryToken()
+
+            <h1>ĐIỀN THÔNG TIN NGƯỜI ĐẶT HÀNG</h1>
+
+            <div class="box-dangnhap">
+
+                <span class="dangnhap">
+                    <span>Tên người nhận<br></span>
+                    @Html.EditorFor(model => model.tennguoinhan)
+                    <p style="color:red;">  @Html.ValidationMessageFor(model => model.tennguoinhan)</p>
+                    <span>Email<br></span>
+                    @Html.EditorFor(model => model.email)
+                    <p style="color:red;">  @Html.ValidationMessageFor(model => model.email)</p>
+                    <span>Địa chỉ<br></span>
+                    @Html.EditorFor(model => model.diachi)
+                    <p style="color:red;">@Html.ValidationMessageFor(model => model.diachi)</p>
+                    <span>Số điện thoại<br></span>
+                    @Html.EditorFor(model => model.sodt)
+                    <p style="color:red;">  @Html.ValidationMessageFor(model => model.sodt)</p>
+
+                </span>
+
+                <span class="button-dangnhap">
+                    <input name="sbmDangNhap" type="submit" value="Hoàn tất" />
+                </span>
+
+            </div>
+
+
+        }
+</section>
+

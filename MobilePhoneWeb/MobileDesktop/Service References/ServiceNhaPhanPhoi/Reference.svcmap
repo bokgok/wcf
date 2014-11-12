@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a0b8836e-bb8a-40c1-ad6e-362a2f32590d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3015/ServiceNhaPhanPhoi.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceNhaPhanPhoi.disco" MetadataType="Disco" ID="34287344-2d54-4732-831e-b99642d4dc75" SourceId="1" SourceUrl="http://localhost:3015/ServiceNhaPhanPhoi.svc?disco" />
+    <MetadataFile FileName="ServiceNhaPhanPhoi.xsd" MetadataType="Schema" ID="21f862b5-afa4-451c-aaed-a9849a6b3729" SourceId="1" SourceUrl="http://localhost:3015/ServiceNhaPhanPhoi.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceNhaPhanPhoi.wsdl" MetadataType="Wsdl" ID="c1d05dcf-8d6d-4bfa-bfc0-e666a4ad9faa" SourceId="1" SourceUrl="http://localhost:3015/ServiceNhaPhanPhoi.svc?wsdl" />
+    <MetadataFile FileName="ServiceNhaPhanPhoi1.xsd" MetadataType="Schema" ID="7c6b2ccf-52cc-46b7-9eae-5da84d740a3c" SourceId="1" SourceUrl="http://localhost:3015/ServiceNhaPhanPhoi.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceNhaPhanPhoi2.xsd" MetadataType="Schema" ID="c0c7fcbf-c946-4264-ae00-e26f595096bb" SourceId="1" SourceUrl="http://localhost:3015/ServiceNhaPhanPhoi.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

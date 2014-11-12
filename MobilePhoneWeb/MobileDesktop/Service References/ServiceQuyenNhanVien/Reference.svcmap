@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="16822429-97da-43c9-ab62-2d5decba2010" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3015/ServiceQuyenNhanVien.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceQuyenNhanVien.wsdl" MetadataType="Wsdl" ID="760d3dcf-1c58-4a9d-9cd7-e0751fc49c4e" SourceId="1" SourceUrl="http://localhost:3015/ServiceQuyenNhanVien.svc?wsdl" />
+    <MetadataFile FileName="ServiceQuyenNhanVien.xsd" MetadataType="Schema" ID="68e85a7b-55e1-4fd6-aaa5-5a7342d9780b" SourceId="1" SourceUrl="http://localhost:3015/ServiceQuyenNhanVien.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceQuyenNhanVien1.xsd" MetadataType="Schema" ID="c989f4e4-3f66-4eca-a094-3ff9598de150" SourceId="1" SourceUrl="http://localhost:3015/ServiceQuyenNhanVien.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceQuyenNhanVien2.xsd" MetadataType="Schema" ID="094e6aff-855a-4a64-bb2d-fb40ff203fec" SourceId="1" SourceUrl="http://localhost:3015/ServiceQuyenNhanVien.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceQuyenNhanVien.disco" MetadataType="Disco" ID="3eb58612-8527-4881-8a9d-14b685929edb" SourceId="1" SourceUrl="http://localhost:3015/ServiceQuyenNhanVien.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

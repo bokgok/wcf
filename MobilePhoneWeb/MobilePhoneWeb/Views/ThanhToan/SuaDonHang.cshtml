@@ -1,0 +1,74 @@
+﻿@{
+    ViewBag.Title = "SuaDonHang";
+    Layout = "~/Views/Shared/_LayoutPageIndex.cshtml";
+}
+@model MobilePhoneWeb.Models.DonHang
+<h2>Sửa đơn hàng</h2>
+
+@{using (Html.BeginForm("SuaDonHang"))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <div class="table">
+        <img src="img/bg-th-left.gif" width="8" height="7" alt="" class="left" />
+        <img src="img/bg-th-right.gif" width="7" height="7" alt="" class="right" />
+        <table class="listing form" cellpadding="0" cellspacing="0">
+            <tr>
+                <th class="full" colspan="2">Thông tin đơn hàng</th>
+            </tr>
+            <tr>
+                <td class="first" width="172"><strong>Mã đơn hàng</strong></td>
+                <td class="last">
+                    @Html.TextBoxFor(a => a.MaDH, new { @readonly = "readonly" })
+                    @Html.ValidationMessageFor(a => a.MaDH)
+                </td>
+            </tr>
+            <tr class="bg">
+                <td class="first" width="172"><strong>Mã khách hàng</strong></td>
+                <td class="last">
+                    @Html.TextBoxFor(a => a.MaKH, new { @readonly = "readonly" })
+                    @Html.ValidationMessageFor(a => a.MaKH)
+                </td>
+            </tr>
+            <tr>
+                <td class="first" width="172"><strong>Tên Khách Hàng</strong></td>
+                <td class="last">
+                    @Html.TextBoxFor(a => a.TenKH)
+                    @Html.ValidationMessageFor(a => a.TenKH)
+                </td>
+            </tr>
+            <tr>
+                <td class="first"><strong>Tổng tiền</strong></td>
+                <td class="last">
+                    @Html.TextBoxFor(a => a.Trigia, new { @readonly = "readonly" })
+                    @Html.ValidationMessageFor(a => a.Trigia)
+                </td>
+            </tr>
+            <tr class="bg">
+                <td class="first"><strong>Địa chỉ giao</strong></td>
+                <td class="last">
+                    @Html.TextBoxFor(a => a.Diachigiao)
+                    @Html.ValidationMessageFor(a => a.Diachigiao)
+                </td>
+            </tr>
+            <tr>
+                <td class="first"><strong>Số điện thoại</strong></td>
+                <td class="last">
+                    @Html.TextBoxFor(a => a.Sdt)
+                    @Html.ValidationMessageFor(a => a.Sdt)
+                </td>
+            </tr>
+            <tr>
+                <td class="first"><strong>Tình trạng</strong></td>
+                <td class="last">
+                    @Html.TextBoxFor(a => a.TinhTrang, new { @readonly = "readonly" })
+                    @Html.ValidationMessageFor(a => a.TinhTrang)
+                </td>
+            </tr>
+        </table>
+        <input type="submit" value="lưu" />
+        <p>&nbsp;</p>
+    </div>
+    @Html.Raw(ViewBag.Error)
+}
+}

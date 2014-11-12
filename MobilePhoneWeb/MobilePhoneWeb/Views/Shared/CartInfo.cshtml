@@ -1,0 +1,152 @@
+﻿@*<div class="panel panel-default nn-cart">
+    <div class="panel-body">
+        <img class="col-md-5" src="~/images/shoppingcart.gif" />
+        <ul class="col-md-7">
+
+            <li><span id="nn-cart-count">@MobilePhoneWeb.Models.ShoppingCart.Cart.Count.ToString()</span></li>
+            <li><span id="nn-cart-total">@MobilePhoneWeb.Models.ShoppingCart.Cart.Total.ToString() đ</span></li>
+            <li><a href="/Cart/Manage">View Cart</a></li>
+        </ul>
+    </div>
+</div>
+<style>
+    .nn-cart ul {
+        padding: 0px;
+        margin: 0px;
+        list-style: none;
+    }
+</style>*@
+
+<div class="title">GIỎ HÀNG</div>
+<div class="show" style="padding: 5px;">
+    <span id="GioHang_TomTat1_lb_Chao" style="font-style: italic; color: #FF3300">Bạn chưa đăng nhập</span>
+
+    <style type="text/css">
+        .auto-style1a {
+            text-align: right;
+            width: 1103px;
+        }
+
+        .auto-style7a {
+            font-size: medium;
+        }
+
+        .auto-style8a {
+            width: 500px;
+        }
+
+        .auto-style11a {
+            width: 546px;
+        }
+
+        .auto-style12a {
+            text-align: right;
+            height: 26px;
+            width: 1103px;
+        }
+
+        .auto-style13a {
+            width: 546px;
+            height: 26px;
+        }
+
+        .auto-style14a {
+            text-align: right;
+            height: 30px;
+            width: 1103px;
+        }
+
+        .auto-style15a {
+            width: 546px;
+            height: 30px;
+        }
+
+        .auto-style16a {
+            text-align: right;
+            width: 1103px;
+            height: 24px;
+        }
+
+        .auto-style17a {
+            text-align: left;
+            width: 546px;
+            height: 24px;
+        }
+    </style>
+    <span id="GioHang_TomTat1_DangNhap1_lb_AnHien"><a href="#overlay">Đăng nhập</a></span>
+
+    @*<div id="overlay">
+        <div id="popup">
+
+            <div class="title1" style="height:21px">
+                &nbsp;&nbsp;&nbsp;&nbsp; ĐĂNG NHẬP<a href="#"><img id="GioHang_TomTat1_DangNhap1_img_Thoat" title="Đóng" src="Images/icon_Thoat.png" align="right" style="height:21px;width:21px;"></a>
+            </div>
+            <div class="show" style="padding: 20px 5px 0px 5px; text-align:left;">
+                <table class="auto-style8a">
+                    <tbody>
+                        <tr>
+                            <td class="auto-style1a">
+                                <strong>
+                                    <span class="auto-style7a">
+                                        Tên đăng nhập
+                                    </span>
+                                    <img id="GioHang_TomTat1_DangNhap1_Image1" class="auto-style7a" src="Images/icon_user.gif" align="top" style="height:22px;width:22px;">
+                                </strong>
+                            </td>
+                            <td class="auto-style11a">
+                                <input name="ctl00$GioHang_TomTat1$DangNhap1$txt_Username" type="text" id="GioHang_TomTat1_DangNhap1_txt_Username" style="height:20px;width:180px;">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style14a">
+                                <strong>
+                                    <span class="auto-style7a">
+                                        Mật khẩu
+                                    </span>
+                                    <img id="GioHang_TomTat1_DangNhap1_Image2" class="auto-style7a" src="Images/icon_mk.gif" align="top" style="height:22px;width:22px;">
+                                </strong>
+                            </td>
+                            <td class="auto-style15a">
+                                <input name="ctl00$GioHang_TomTat1$DangNhap1$txt_Password" type="password" id="GioHang_TomTat1_DangNhap1_txt_Password" style="height:20px;width:180px;">
+
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style12a">
+                                <span style="font-size: large"><input id="GioHang_TomTat1_DangNhap1_chb_GhiNho" type="checkbox" name="ctl00$GioHang_TomTat1$DangNhap1$chb_GhiNho"><label for="GioHang_TomTat1_DangNhap1_chb_GhiNho">Ghi nhớ</label></span>
+                            </td>
+                            <td style="text-align: left" class="auto-style13a">
+                                |
+                                <a id="GioHang_TomTat1_DangNhap1_hl_DoiMatKhau" href="DoiMatKhau.aspx" style="text-align: right; font-size: medium; ">Đổi mật khẩu</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style16a">Chưa có tài khoản: </td>
+                            <td class="auto-style17a">
+                                <a id="GioHang_TomTat1_DangNhap1_hl_DangKy" href="DangKy.aspx" style="text-align: left">Đăng ký ngay</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="text-align: right">
+                                <input type="image" name="ctl00$GioHang_TomTat1$DangNhap1$ibtn_DangNhap" id="GioHang_TomTat1_DangNhap1_ibtn_DangNhap" src="Images/btn_login.jpg" style="height:25px;text-align: left">
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                <a id="GioHang_TomTat1_DangNhap1_hl_Admin" href="Admin/Default.aspx">™</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>*@
+
+    <br>
+    Tổng số lượng: <span id="nn-cart-count" style="font-weight: 700"> @*@Model.Cart.sogiohang()*@  </span>
+    <br>
+    Tổng tiền: <strong>
+                   <span id="nn-cart-total"> @*@Model.Cart.tongtien()*@ đ</span>
+        <br>
+    </strong>
+    <a id="GioHang_TomTat1_hl_ChiTietGioHang" title="Chi tiết giỏ hàng" href="#overlay"><img src="Images/iconGioHang.png" alt="HyperLink"></a>
+</div>
+

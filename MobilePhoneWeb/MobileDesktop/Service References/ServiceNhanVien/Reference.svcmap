@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="26833b32-013f-4ec4-b110-1801b7dfcf3f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3015/ServiceNhanVien.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceNhanVien.xsd" MetadataType="Schema" ID="f4d28c16-f616-45b5-8fc9-96151d7122fb" SourceId="1" SourceUrl="http://localhost:3015/ServiceNhanVien.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceNhanVien.disco" MetadataType="Disco" ID="e0672116-890b-4b27-aee1-fa0aa2e8e954" SourceId="1" SourceUrl="http://localhost:3015/ServiceNhanVien.svc?disco" />
+    <MetadataFile FileName="ServiceNhanVien1.xsd" MetadataType="Schema" ID="c9f19400-4042-4e9a-b016-b90e5f33a62b" SourceId="1" SourceUrl="http://localhost:3015/ServiceNhanVien.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceNhanVien.wsdl" MetadataType="Wsdl" ID="d3782fdc-638d-4ece-bca3-c29ea3017910" SourceId="1" SourceUrl="http://localhost:3015/ServiceNhanVien.svc?wsdl" />
+    <MetadataFile FileName="ServiceNhanVien2.xsd" MetadataType="Schema" ID="efc0cdaf-88b5-4e74-b64a-6c7ba0fd1599" SourceId="1" SourceUrl="http://localhost:3015/ServiceNhanVien.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

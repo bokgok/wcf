@@ -1,0 +1,66 @@
+﻿@{
+    ViewBag.Title = "Đặt hàng";
+    Layout = "~/Views/Shared/_LayoutPageIndex.cshtml";
+}
+@model MobilePhoneWeb.Models.ThongTinNguoiDatHang
+<h2>Thông tin đặt hàng</h2>
+@using (Html.BeginForm("DatHangaction", "ThanhToan", FormMethod.Post))
+{
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+        <table border="1" style="width: 100%; background-color:#A8DEE8;margin-top:30px ">
+            <tr style="border:0px">
+                <td width="100px" style="border:0px">
+                    <span style="margin-left:90px">Họ và tên:</span>
+                </td>
+                <td width="250px" style="border:0px">
+                    @Html.EditorFor(model => model.tennguoinhan)
+                    @Html.ValidationMessageFor(model => model.tennguoinhan)
+                    @*<span style="margin-left:0px">
+                            <input id="txthoten" type="text" value="" style="background-color: white; width: 250px; height: 20px; font-size:12px" />
+                        </span>*@
+                </td>
+            </tr>
+            <tr style="border:0px">
+                <td width="100px" style="border:0px">
+                    <span style="margin-left:90px">Số điện thoại:</span>
+                </td>
+                <td width="250px" style="border:0px">
+                    @Html.EditorFor(model => model.sodt)
+                    @Html.ValidationMessageFor(model => model.sodt)
+                    @*<span style="margin-left:0px">
+                            <input id="txtsdt" type="text" value="" style="background-color: white; width: 250px; height: 20px; font-size:12px" />
+                        </span>*@
+                </td>
+            </tr>
+            <tr style="border:0px">
+                <td width="100px" style="border:0px">
+                    <span style="margin-left:90px">Địa chỉ:</span>
+                </td>
+                <td width="250px" style="border:0px">
+                    @Html.EditorFor(model => model.diachi)
+                    @Html.ValidationMessageFor(model => model.diachi)
+                    @*<span style="margin-left:0px">
+                            <input id="txtdiachi" type="text" value="" style="background-color: white; width: 250px; height: 20px; font-size:12px" />
+                        </span>*@
+                </td>
+            </tr>
+            <tr style="border:0px">
+                <td width="100px" style="border:0px">
+                    <span style="margin-left:90px">Email:</span>
+                </td>
+                <td width="250px" style="border:0px">
+                    @Html.EditorFor(model => model.email)
+                    @Html.ValidationMessageFor(model => model.email)
+                    @*<span style="margin-left:0px">
+                    <input id="txtsdt" type="text" value="" style="background-color: white; width: 250px; height: 20px; font-size:12px" />
+                </span>*@
+                </td>
+            </tr>
+        </table>
+    
+    <div style="float:right"><input name="sbmDangNhap" type="submit" value="Hoàn tất" /></div>
+
+
+}
+@{Html.RenderAction("DefaultDH", "giohang");}

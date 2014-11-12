@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Sản phẩm";
+    Layout = "~/Views/Shared/_LayoutPageIndex.cshtml";
+}
+@using PagedList.Mvc
+@using PagedList
+@model PagedList.IPagedList <MobilePhoneWeb.ServiceSanPham.SanPham >
+<div id="mid_1">
+
+
+    <style type="text/css">
+        .auto-style1 {
+            color: #000000;
+            font-size: medium;
+        }
+
+        .auto-style2 {
+            text-decoration: none;
+        }
+    </style>
+
+    <div class="title1" style="height:21px">&nbsp;SẢN PHẨM</div>
+
+    <div class="show" style="padding: 20px 5px 0px 5px;">
+        @foreach (var pro in Model)
+        {
+            <div class="product_grid" style="width:160px;float:left">
+                <a href="@Url.Action("Details", "Index", new { id = pro.MaSP })" class="auto-style2">
+                    <img src="~/Images/Product/@Html.DisplayFor(i => pro.UrlHinh)" style="height:160px;width:160px;"><br>
+
+                    <div class="ProductName">
+                        <span style="text-align: center; color: #000000;">@pro.TenSP</span>
+                    </div>
+
+                    <div class="Price-List">
+                        <span style="text-align: center; color: #FF3300; ">@pro.Gia</span>
+                    </div>
+                    <div>
+                        <a href="@Url.Action("giohangthem", "GioHang", new { masanpham = pro.MaSP })">
+                            <input name="btnMuaHang" class="btn-muahang" type="button" value="Mua hàng"  />
+                        </a>
+                        @*@Html.ActionLink("Thêm vào giỏ", "giohangthem", new { masanpham = pro.MASP }, new { @Style = "font-weight:bold; color:#ff6a00" })*@
+                    </div>
+                </a>
+                
+            </div>
+        }
+    </div>
+</div>
+<div class="clear"></div>
+@Html.PagedListPager(Model, Page => Url.Action("sanpham", new { Page = Page }), PagedListRenderOptions.OnlyShowFivePagesAtATime)

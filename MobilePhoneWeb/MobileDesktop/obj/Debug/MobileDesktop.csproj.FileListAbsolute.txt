@@ -1,0 +1,101 @@
+D:\Tai lieu\WEB SERVICE\Projects\WcfMobileWeb\MobileDesktop\bin\Debug\MobileDesktop.exe.config
+D:\Tai lieu\WEB SERVICE\Projects\WcfMobileWeb\MobileDesktop\bin\Debug\MobileDesktop.exe
+D:\Tai lieu\WEB SERVICE\Projects\WcfMobileWeb\MobileDesktop\bin\Debug\MobileDesktop.pdb
+D:\Tai lieu\WEB SERVICE\Projects\WcfMobileWeb\MobileDesktop\obj\Debug\MobileDesktop.csprojResolveAssemblyReference.cache
+D:\Tai lieu\WEB SERVICE\Projects\WcfMobileWeb\MobileDesktop\obj\Debug\MobileDesktop.Properties.Resources.resources
+D:\Tai lieu\WEB SERVICE\Projects\WcfMobileWeb\MobileDesktop\obj\Debug\MobileDesktop.csproj.GenerateResource.Cache
+D:\Tai lieu\WEB SERVICE\Projects\WcfMobileWeb\MobileDesktop\obj\Debug\MobileDesktop.exe
+D:\Tai lieu\WEB SERVICE\Projects\WcfMobileWeb\MobileDesktop\obj\Debug\MobileDesktop.pdb
+D:\Tai lieu\WEB SERVICE\Projects\WcfMobileWeb\MobileDesktop\obj\Debug\MobileDesktop.FormKhachHang.resources
+D:\Tai lieu\WEB SERVICE\Projects\WcfMobileWeb\MobileDesktop\obj\Debug\MobileDesktop.FormSanPham.resources
+D:\Tai lieu\WEB SERVICE\Projects\WcfMobileWeb\MobileDesktop\obj\Debug\MobileDesktop.FormNhanVien.resources
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.exe.config
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.exe
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.pdb
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.exe
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.pdb
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormNhanVien.resources
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormKhachHang.resources
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormSanPham.resources
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.Properties.Resources.resources
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.csproj.GenerateResource.Cache
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FromThongKeSP.resources
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.exe.config
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.exe
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.pdb
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.exe
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.pdb
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormNhanVien.resources
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormKhachHang.resources
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormSanPham.resources
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FromThongKeSP.resources
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.Properties.Resources.resources
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.csproj.GenerateResource.Cache
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.Mvc.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.Mvc.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.Index.resources
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.exe.config
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.exe
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.pdb
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.Mvc.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.Mvc.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormNhanVien.resources
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormKhachHang.resources
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormSanPham.resources
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.Index.resources
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.Properties.Resources.resources
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.csproj.GenerateResource.Cache
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.exe
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.pdb
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormThemSP.resources
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FromThongKeHoaDon.resources
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.exe.config
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.exe
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.pdb
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.exe
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.pdb
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.Mvc.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.Mvc.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormNhanVien.resources
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormKhachHang.resources
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormSanPham.resources
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormThemSP.resources
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FromThongKeHoaDon.resources
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.Index.resources
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.Properties.Resources.resources
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.csproj.GenerateResource.Cache
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormDangNhap.resources
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormNhaPhanPhoi.resources
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormNhaSanXuat.resources
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.exe.config
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.exe
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.pdb
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.Mvc.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\PagedList.Mvc.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormDangNhap.resources
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormNhanVien.resources
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormKhachHang.resources
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormNhaPhanPhoi.resources
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormNhaSanXuat.resources
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormSanPham.resources
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FormThemSP.resources
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.FromThongKeHoaDon.resources
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.Index.resources
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.Properties.Resources.resources
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.csproj.GenerateResource.Cache
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.exe
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.pdb
+D:\Hoc Tap\MVC\WCF\WCF Ban chinh thuc - nop\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\bin\Debug\MobileDesktop.exe.config
+D:\Hoc Tap\MVC\WCF\WCF Ban chinh thuc - nop\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.exe
+D:\Hoc Tap\MVC\WCF\WCF Ban chinh thuc - nop\MobilePhoneWeb\MobilePhoneWeb\MobileDesktop\obj\Debug\MobileDesktop.pdb

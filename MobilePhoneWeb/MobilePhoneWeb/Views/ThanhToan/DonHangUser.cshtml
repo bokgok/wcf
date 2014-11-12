@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "DonHangUser";
+    Layout = "~/Views/Shared/_LayoutPageIndex.cshtml";
+}
+
+@model IEnumerable<MobilePhoneWeb.ServiceDonHang.DonHang>
+<div class="top-bar">
+
+    <h2>Quản lý Đơn Hàng</h2>
+</div><br />
+<div class="table" style="background-color:#EEE8AA;">
+    <img src="img/bg-th-left.gif" width="8" height="7" alt="" class="left" />
+    <img src="img/bg-th-right.gif" width="7" height="7" alt="" class="right" />
+    <table class="listing" cellpadding="0" cellspacing="0">
+        <tr>
+            <th class="first">MÃ HÓA ĐƠN</th>
+            <th>MÃ KHÁCH HÀNG</th>
+            <th style="width:100px">TÊN KHÁCH HÀNG</th>
+            <th>NGÀY ĐẶT</th>
+            <th>TRỊ GIÁ</th>
+            <th>ĐỊA CHỈ GIAO</th>
+            <th>SỐ ĐIỆN THOẠI</th>
+            <th>TÌNH TRẠNG</th>
+            <th>SỬA</th>
+            <th class="last">CHI TIẾT</th>
+        </tr>
+        @foreach (var dh in Model)
+        {
+            <tr>
+                <td>@dh.MaDH</td>
+                <td>@dh.MaKH</td>
+                <td>@dh.TenKH</td>
+                <td>@dh.Ngay</td>
+                <td>@dh.Trigia</td>
+                <td>@dh.Diachigiao</td>
+                <td>@dh.Sdt</td>
+                <td>@dh.TinhTrang</td>
+                <td><a href="@Url.Action("SuaDonHang", new { id = @dh.MaDH })"><img src="~/img/edit-icon.gif" width="16" height="16" alt="" /></a></td>
+                @*<td>
+                    @{
+            var url = Url.Action("ChiTietDonHang", new { id = @dh.MaDH });
+            url = HttpUtility.UrlDecode(url);
+            <a data-ng-href="@url">vao</a>
+}
+                </td>*@
+
+    @*<td><a onclick="return ThongBaoXoa();" href="@Url.Action("AXoaDonHang", new { id = @dh.MaDH})"><img src="~/img/hr.gif" width="16" height="16" alt="" /></a></td>*@
+                <td>@Html.ActionLink("Chi tết đơn hàng", "ChiTietDonHang", new {id = @dh.MaDH},null)</td>
+
+            </tr>
+        }
+    </table>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+</div>
+

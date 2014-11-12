@@ -1,0 +1,443 @@
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.dll.config
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.pdb
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Antlr3.Runtime.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.AspNet.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.Core.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\EntityFramework.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.Edm.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.OData.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Newtonsoft.Json.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Net.Http.Formatting.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Spatial.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Helpers.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.OData.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.WebHost.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Mvc.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Optimization.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Razor.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Deployment.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Razor.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebGrease.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.Data.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.WebData.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\EntityFramework.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Newtonsoft.Json.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Net.Http.Formatting.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Helpers.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.WebHost.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Mvc.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Razor.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Deployment.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Razor.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.Data.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.WebData.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.AspNet.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.Core.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.OData.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.Edm.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.OData.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Spatial.xml
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\Microsoft.Data.Edm.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\Microsoft.Data.Edm.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\Microsoft.Data.Edm.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\Microsoft.Data.OData.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\Microsoft.Data.OData.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\Microsoft.Data.OData.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\Microsoft.Data.OData.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\Microsoft.Data.OData.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\Microsoft.Data.OData.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\Microsoft.Data.OData.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\System.Spatial.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\System.Spatial.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\System.Spatial.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\System.Spatial.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\System.Spatial.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\System.Spatial.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\System.Spatial.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\System.Spatial.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\System.Spatial.resources.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.dll
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.pdb
+D:\APP\CODE\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.dll.config
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.pdb
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Antlr3.Runtime.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.AspNet.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.Core.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\EntityFramework.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.Edm.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.OData.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Newtonsoft.Json.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Net.Http.Formatting.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Spatial.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Helpers.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.OData.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.WebHost.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Mvc.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Optimization.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Razor.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Razor.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebGrease.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.Data.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.WebData.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\EntityFramework.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Newtonsoft.Json.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Net.Http.Formatting.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Helpers.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.WebHost.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Mvc.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Razor.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Razor.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.Data.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.WebData.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.AspNet.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.Core.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.OData.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.Edm.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.OData.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Spatial.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.pdb
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.Mvc.dll
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.xml
+D:\Hoc Tap\MVC\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.Mvc.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.dll.config
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.pdb
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Antlr3.Runtime.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.AspNet.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.Core.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\EntityFramework.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.Edm.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.OData.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Newtonsoft.Json.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.Mvc.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Net.Http.Formatting.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Spatial.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Helpers.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.OData.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.WebHost.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Mvc.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Optimization.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Razor.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Razor.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebGrease.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.Data.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.WebData.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.Mvc.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\EntityFramework.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Newtonsoft.Json.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Net.Http.Formatting.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Helpers.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.WebHost.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Mvc.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Razor.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Razor.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.Data.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.WebData.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.AspNet.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.Core.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.OData.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.Edm.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.OData.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Spatial.xml
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.dll
+D:\Hoc Tap\MVC\WCF\banBan Chinh Thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.pdb
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.dll.config
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.pdb
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Antlr3.Runtime.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.AspNet.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.Core.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\EntityFramework.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.Edm.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.OData.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Newtonsoft.Json.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.Mvc.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Net.Http.Formatting.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Spatial.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Helpers.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.OData.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.WebHost.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Mvc.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Optimization.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Razor.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Razor.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebGrease.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.Data.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.WebData.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.Mvc.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\EntityFramework.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Newtonsoft.Json.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Net.Http.Formatting.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Helpers.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.WebHost.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Mvc.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Razor.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Razor.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.Data.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.WebData.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.AspNet.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.Core.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.OData.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.Edm.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.OData.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Spatial.xml
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.dll
+D:\Hoc Tap\MVC\WCF\WCf Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.pdb
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.dll.config
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\MobilePhoneWeb.pdb
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Antlr3.Runtime.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.AspNet.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.Core.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\EntityFramework.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.Edm.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.OData.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Newtonsoft.Json.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.Mvc.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Net.Http.Formatting.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Spatial.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Helpers.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.OData.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.WebHost.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Mvc.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Optimization.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Razor.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Razor.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebGrease.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.Data.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.WebData.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\PagedList.Mvc.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\EntityFramework.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Newtonsoft.Json.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Net.Http.Formatting.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Helpers.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.WebHost.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Mvc.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Razor.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.WebPages.Razor.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.Data.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\WebMatrix.WebData.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.AspNet.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.Core.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OAuth.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Web.Http.OData.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.Edm.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\Microsoft.Data.OData.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\System.Spatial.xml
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\de\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\es\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\fr\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\it\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ja\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ko\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\ru\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hans\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\bin\zh-Hant\System.Spatial.resources.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.dll
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.pdb
+D:\Hoc Tap\MVC\MVC\MVC Ban chinh thuc\MobilePhoneWeb\MobilePhoneWeb\MobilePhoneWeb\obj\Debug\MobilePhoneWeb.csprojResolveAssemblyReference.cache
