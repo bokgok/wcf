@@ -1,0 +1,178 @@
+﻿Nhom 10: Thai Dang Quoc
+	 Do Minh Tan
+	 Be Hoang Thao
+
+I. 	Giới Thiệu
+
+1.1. Giới thiệu đề tài
+
+	Đề tài: Xây dựng website bán điện thoại bằng ASP.NET và Phần mềm quản lý bằng WinForm sử dựng công nghệ WCF:
+	-  Giới thiệu đầy đủ các thông tin về sản phẩm như tên sản phẩm, giá sản phẩm,…
+	-  Giúp khách hàng có thể tìm kiếm, lựa chọn, mua được các sản phẩm phù hợp với nhu cầu của mình.
+	-  Người quản trị có thể quản lý tốt được sản phẩm, khách hàng và các đơn đặt hàng của khách hàng.
+	-  Giúp người quản lý dễ dàng cập nhật thông tin sản phẩm mới, quản lý thông tin khách hàng và đơn hàng một cách hiệu quả nhất.
+
+1.2. Nội dung đề tài.
+
+	Các chức năng của website:
+	-  Thiết kế và tạo giao diện giới thiệu về các loại điện thoại trên website. 
+	-  Xây dựng mục tìm kiếm sản phẩm trên website để người dùng có thể tìm kiếm sản phẩm dựa trên:  Tên sản phẩm
+	-  Tạo giỏ hàng: Sẽ đảm bảo cho mỗi khách hàng có một giỏ hàng riêng biệt không liên quan đến khách hàng khác.khác hàng khi không đăng nhập vẫn đặt hàng được nhưng sẽ không có mục quản lý giỏ hàng
+	-  Đăng ký, đăng nhập: Cho phép khách hàng mới đăng ký tài khoản và cho phép khách hàng đăng nhập vào website.
+	-  Giao tiếp với khách hàng: việc khách hàng có thể gửi ý kiến yêu cầu, đóng góp nhằm xây dựng website phát triển hơn….
+	-  Giới thiệu chiến lược kinh doanh như: khuyến mại, dịch vụ chăm sóc khách hàng, bảo hành sản phẩm…
+	
+	Xây dựng một website bán hàng trực tuyến với các yêu cầu sau:
+	-  Hình ảnh đẹp, hiệu ứng độc đáo và bắt mắt. 
+	-  Giao diện thuận tiện người dùng .
+	-  Trang web phải cân đối.
+	
+	Các chức năng của phần mềm quản lý:
+	-  Quản trị hệ thống: Cho phép người quản trị thêm, xóa, sửa thông tin liên quan đến sản phẩm, khách hàng và đơn hàng đã đặt. 
+	-  Người quản trị thường xuyên cập nhật những thông tin mới nhất về sản phẩm. 
+
+II. Thiết kế và các chức năng
+
+1. Thiết kế
+
+1.1 ASP.NET
+
+	-  Hiện danh sách các sản phẩm.
+	-  Xem thông tin chi tiết sản phẩm.
+	-  Tìm kiếm sản phẩm theo yêu cầu: tên, giá , loại sản phẩm.
+	-  Đăng ký làm thành viên của website.
+	-  Lựa chọn các sản phẩm cho vào giỏ hàng. Có thể, xoá sản phẩm hoặc chỉnh sửa số lượng sản phẩm. 
+	-  Đặt hàng yêu cầu nhập tên, số điện thoại, địa chỉ. Nếu đã đăng nhập thì lấy thông tin đã đăng ký điền vào đơn đặt hàng.
+	-  Được chỉnh sửa thông tin của mình và đổi mật khẩu.
+
+1.2	WPF
+
+	-  Có quyền sửa, xoá user hoặc ghi chú user xấu.
+	-  Thêm, sửa, xoá các sản phẩm.
+	-  Xem danh sách đơn hàng. Xoá hoặc thay đổi trạng thái của đơn hàng.
+	-  Xem chi tiết của đơn hàng
+
+1.3	WCF
+
+	- Cung cấp dịch vụ để người quản trị thao tác dữ liệu  trên WPF như: các chức năng thêm, sửa, xóa,....
+
+2. Chức năng
+
+2.1 Quản lý sản phẩm
+
+	2.1.1 Thêm sản phẩm
+
+		Người quản trị sẽ làm các nhiệm vụ:
+		- Điền thông tin vào các trường: Tên sản phẩm, CPU, RAM/HDD, VGA, Giá sản phẩm.
+		- Chọn nhà sản xuất và chọn hình đại diện của sản phẩm.
+		-  Sau đó chọn Thêm để thêm mới 1 sản phẩm.
+		- Mã sản phẩm sẽ được tạo tự động.
+
+	2.1.2 Sửa sản phẩm
+	
+		-  Người quản trị  chọn 1 sản phẩm trong danh sách
+		-  Sửa các thông tin cần thiết
+		-  Chọn lại hình ảnh nếu có
+		- Sau đó chọn Sửa để cập nhật thông tin sản phẩm
+
+	2.1.3 Xóa sản phẩm
+	
+		-  Cho phép gười quản trị  chọn 1 sản phẩm trong danh sách
+		-  Sau đó chọn Xóa, sản phẩm sẽ được xóa ra cơ sở dữ liệu
+2.2 Quản lý khách hàng
+	
+	2.2.1 Thêm khách hàng
+	
+		-  Người quản trị sẽ nhập thông tin của khách hàng
+		-  Sau đó chọn Thêm để thêm mới 1 khách hàng
+		-  Mã khách hàng sẽ được tạo tự động
+
+	2.2.2 Sửa khách hàng
+	
+		-  Người quản trị chọn 1 khách hàng từ danh sách
+		-  Sửa các thông tin cần thiết
+		-  Sau đó chọn Sửa để cập nhật thông tin khách hàng 
+
+	2.2.3 Xóa khách hàng
+		-  Người quản trị chọn 1 khách hàng từ danh sách khách hàng
+		-  Sau đó chọn Xóa, khách hàng sẽ được xóa khỏi cơ sở dữ liệu
+
+2.3 Quản lý Nhân Viên
+	
+	2.3.1 Thêm Nhân Viên
+	
+		-  Người quản trị sẽ nhập thông tin của Nhân Viên
+		-  Sau đó chọn Thêm để thêm mới 1 Nhân Viên
+		-  Mã Nhân Viên sẽ được tạo tự động
+
+	2.3.2 Sửa Nhân Viên
+	
+		-  Người quản trị chọn 1 Nhân Viên từ danh sách
+		-  Sửa các thông tin cần thiết
+		-  Sau đó chọn Sửa để cập nhật thông tin Nhân Viên
+
+	2.3.3 Xóa Nhân Viên
+		-  Người quản trị chọn 1 Nhân Viêng từ danh sách Nhân Viên
+		-  Sau đó chọn Xóa, Nhân Viên sẽ được xóa khỏi cơ sở dữ liệu
+
+
+2.4 Thống kê đơn hàng 
+
+	2.3.1 Lọc đơn hàng theo ngày thông kê tất cả các đơn hàng và tổng giá trị thu được
+
+2.5 Quản lý phân loại
+
+	2.5.1.	Thêm nhà sản xuất
+	
+		-  Người quản trị sẽ nhập thông tin nhà sản xuất
+		-  Sau đó chọn Thêm để thêm mới 1 nhà sản xuất
+		-  Mã nhà sản xuất sẽ được tạo tự động
+
+	2.5.2.	Sửa nhà sản xuất
+	
+		-  Người quản trị chọn 1 nhà sản xuất từ danh sách
+		-  Sửa các thông tin cần thiết
+		-  Sau đó chọn Sửa để cập nhật thông tin nhà sản xuất
+
+	2.5.3.	Xóa nhà sản xuấti
+	
+		-  Người quản trị chọn 1 nhà sản xuất từ danh sách
+		-  Sau đó chọn Xóa, nhà sản xuất sẽ được xóa khỏi cơ sở dữ liệu
+
+2.6 Quản lý Nhà Phân Phối
+
+	2.6.1.	Thêm Nhà Phân Phối
+	
+		-  Người quản trị sẽ nhập thông tin Nhà Phân Phối
+		-  Sau đó chọn Thêm để thêm mới 1 Nhà Phân Phối
+		-  Mã Nhà Phân Phối sẽ được tạo tự động
+
+	2.6.2.	Sửa Nhà Phân Phối
+	
+		-  Người quản trị chọn 1 Nhà Phân Phối từ danh sách
+		-  Sửa các thông tin cần thiết
+		-  Sau đó chọn Sửa để cập nhật thông tin Nhà Phân Phối
+
+	2.6.3.	Xóa Nhà Phân Phối
+	
+		-  Người quản trị chọn 1 Nhà Phân Phối từ danh sách
+		-  Sau đó chọn Xóa, Nhà Phân Phối sẽ được xóa khỏi cơ sở dữ liệu
+
+
+2.7 Đăng ký tài khoản
+
+	-  Khách hàng có thể đăng ký tài khoản bằng cách:
+	-  Chọn Đăng ký tài khoản
+	-  Nhập các thông tin cần thiết 
+	-  Sau đó chọn Đăng ký, tài khoản sẽ được tạo và khách hàng có thể đăng nhập
+
+2.8 Tạo Giỏ hàng và Đặt hàng
+
+	-  Khách hàng có thể chon các sản phẩm để đưa vào giỏ hàng của mình
+	-  Sau đó Đặt hàng các sản phẩm đã chọn
+	-  Khách hàng có thể đăng nhập để lấy thông tin điền vào các trường hoặc điền thông tin mới
+	- Sau đó chọn Đồng ý, đơn đặt hàng sẽ được lưu và người quản trị sau đó sẽ liên lạc giao hàng
+
+III. Các cài đặt và cấu hình
+
+Code 70% đã chỉnh sửa
